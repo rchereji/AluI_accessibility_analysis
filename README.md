@@ -1,2 +1,2 @@
-# AluI_accessibility_analysis
+# AluI accessibility analysis
 Custom MATLAB code for analyzing AluI cleavage data
